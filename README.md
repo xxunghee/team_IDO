@@ -10,7 +10,7 @@
 
 - [김경훈](https://github.com/khoon-git)
 - [김성희](https://github.com/xxunghee)
-- 김자영
+- [김자영](https://github.com/jayom99)
 - [박효준](https://github.com/phj1450)
 
 
